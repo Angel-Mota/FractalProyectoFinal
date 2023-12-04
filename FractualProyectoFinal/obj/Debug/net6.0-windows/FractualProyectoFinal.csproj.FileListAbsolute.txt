@@ -1,0 +1,16 @@
+C:\Users\angel\source\repos\FractualProyectoFinal\FractualProyectoFinal\bin\Debug\net6.0-windows\FractualProyectoFinal.exe
+C:\Users\angel\source\repos\FractualProyectoFinal\FractualProyectoFinal\bin\Debug\net6.0-windows\FractualProyectoFinal.deps.json
+C:\Users\angel\source\repos\FractualProyectoFinal\FractualProyectoFinal\bin\Debug\net6.0-windows\FractualProyectoFinal.runtimeconfig.json
+C:\Users\angel\source\repos\FractualProyectoFinal\FractualProyectoFinal\bin\Debug\net6.0-windows\FractualProyectoFinal.dll
+C:\Users\angel\source\repos\FractualProyectoFinal\FractualProyectoFinal\bin\Debug\net6.0-windows\FractualProyectoFinal.pdb
+C:\Users\angel\source\repos\FractualProyectoFinal\FractualProyectoFinal\obj\Debug\net6.0-windows\FractualProyectoFinal.Form1.resources
+C:\Users\angel\source\repos\FractualProyectoFinal\FractualProyectoFinal\obj\Debug\net6.0-windows\FractualProyectoFinal.csproj.GenerateResource.cache
+C:\Users\angel\source\repos\FractualProyectoFinal\FractualProyectoFinal\obj\Debug\net6.0-windows\FractualProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\source\repos\FractualProyectoFinal\FractualProyectoFinal\obj\Debug\net6.0-windows\FractualProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\FractualProyectoFinal\FractualProyectoFinal\obj\Debug\net6.0-windows\FractualProyectoFinal.AssemblyInfo.cs
+C:\Users\angel\source\repos\FractualProyectoFinal\FractualProyectoFinal\obj\Debug\net6.0-windows\FractualProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\FractualProyectoFinal\FractualProyectoFinal\obj\Debug\net6.0-windows\FractualProyectoFinal.dll
+C:\Users\angel\source\repos\FractualProyectoFinal\FractualProyectoFinal\obj\Debug\net6.0-windows\refint\FractualProyectoFinal.dll
+C:\Users\angel\source\repos\FractualProyectoFinal\FractualProyectoFinal\obj\Debug\net6.0-windows\FractualProyectoFinal.pdb
+C:\Users\angel\source\repos\FractualProyectoFinal\FractualProyectoFinal\obj\Debug\net6.0-windows\FractualProyectoFinal.genruntimeconfig.cache
+C:\Users\angel\source\repos\FractualProyectoFinal\FractualProyectoFinal\obj\Debug\net6.0-windows\ref\FractualProyectoFinal.dll
